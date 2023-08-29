@@ -1,14 +1,6 @@
-<style>
-  .italic-text {
-    font-style: italic;
-    text-align: center;
-  }
-</style>
-
 <h1 align="center">Hi there 👋</h1>
-<h3 class="italic-text">I'm Eda from Istanbul, Turkey</h3>
-<h3 class="italic-text">3rd year Computer Engineering Student</h3>
-
+### *I'm Eda from Istanbul, Turkey*
+### *3rd year Computer Engineering Student*
 
 
 * 🎯 I’m currently learning **Entity Framework** and **Spring Boot**
