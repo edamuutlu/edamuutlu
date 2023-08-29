@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-    <img src="https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s"
+    <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"
         width="180px" />
     <br />
     <br />
