@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eda</h1>
-=======================================================================================================================================
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Eda from Istanbul, Turkey</h3>
+<h3 align="center">a Coder, a Learner, an Engineer.</h3>
 
 <div dir="rtr">
 <img align="right" display="flex" src="https://komarev.com/ghpvc/?username=edanurmutlu">
 
 
-
-* 🌍  I'm based in Turkey
+* 🎯 I’m currently learning **Entity Framework** and **Spring Boot**
 * ✉️  You can contact me at [edamuutlu@gmail.com](mailto:edamuutlu@gmail.com)
-* 🧠  I'm proficient in Java, Python, MySQL, JavaScript, C, HTML, CSS, jQuery, Spring
   
 ### Skills
 
@@ -31,4 +30,4 @@
 <a href="https://www.linkedin.com/in/eda-nur-mutlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edamuutlu&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="edamuutlu" /></p>
