@@ -1,4 +1,4 @@
-Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Eda
+<h1 align="center">Hi 👋, I'm Eda</h1>
 =======================================================================================================================================
 
 <div dir="rtr">
@@ -31,4 +31,4 @@ Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 <a href="https://www.linkedin.com/in/eda-nur-mutlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu&hide=java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu)
