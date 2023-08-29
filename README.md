@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Eda from Istanbul, Turkey</h3>
-<h3 align="center">a Coder, a Learner, an Engineer.</h3>
+<h3 align="center">3th year Computer Engineering Student</h3>
 
 <div dir="rtr">
 <img align="right" display="flex" src="https://komarev.com/ghpvc/?username=edanurmutlu">
@@ -30,4 +30,4 @@
 <a href="https://www.linkedin.com/in/eda-nur-mutlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edamuutlu&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="edamuutlu" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu&layout=compact)
