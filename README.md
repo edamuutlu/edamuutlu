@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center"><em>I'm Eda from Istanbul, Turkey</em></h3>
-<h3 align="center"><em>3rd year Computer Engineering Student</em></h3>
+<h3 align="center"><em><small>I'm Eda from Istanbul, Turkey</small></em></h3>
+<h3 align="center"><em><small>3rd year Computer Engineering Student</small></em></h3>
 
 
 * 🎯 I’m currently learning **Entity Framework** and **Spring Boot**
