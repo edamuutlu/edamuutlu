@@ -21,7 +21,7 @@
 * 👩🏼‍💻 I'm currently student at Marmara University Computer Engineering
 * 🌱 I’m currently learning **Entity Framework** and **Spring Boot**
   
-<br />
+<p></p>
 <h3 align="left">Skills</h3>
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
