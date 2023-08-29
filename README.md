@@ -31,4 +31,4 @@ Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 <a href="https://www.linkedin.com/in/eda-nur-mutlu target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 </br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edamuutlu&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="edamuutlu" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu&hide=javascript,html)
