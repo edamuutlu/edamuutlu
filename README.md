@@ -2,9 +2,27 @@
 <h3 align="center"><em>I'm Eda from Istanbul, Turkey</em></h3>
 <h3 align="center"><em>3rd year Computer Engineering Student</em></h3>
 
+<div align="center">
+    <img src="[https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)"
+        width="180px" />
+    <br />
+    <br />
+    <samp> <i> I'm Eda from Istanbul, Turkey </i> </samp> <br />
+    <samp> <i> 3rd year Computer Engineering Student. </i> </samp>
+    <br />
+    <samp>
+        <br />
+        </b>
+        <br />
+    </samp>
+    <br />
 
-* 🎯 I’m currently learning **Entity Framework** and **Spring Boot**
-* ✉️  You can contact me at [edamuutlu@gmail.com](mailto:edamuutlu@gmail.com)
+</div>
+<div>
+
+* 👩🏼‍💻 I'm currently student at Marmara University Computer Engineering
+* 🌱 I’m currently learning **Entity Framework** and **Spring Boot**
+* 📫 How to reach me: [edamuutlu@gmail.com](mailto:edamuutlu@gmail.com)
   
 
 <h3 align="left">Skills</h3>
