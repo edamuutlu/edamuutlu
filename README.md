@@ -9,9 +9,7 @@
     <samp> <i> 3rd year Computer Engineering Student. </i> </samp>
     <br />
     <samp>
-        <br />
-        </b>
-        <br />
+        <p></p>
     </samp>
     <br />
 
@@ -36,7 +34,6 @@
 </p>
 
 <div>
-    <br />
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu&layout=compact" alt="Top Languages">
 </div>
