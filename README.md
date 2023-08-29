@@ -4,7 +4,6 @@
     <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"
         width="180px" />
     <br />
-    <br />
     <samp> <i> I'm Eda from Istanbul, Turkey </i> </samp> <br />
     <samp> <i> 3rd year Computer Engineering Student. </i> </samp>
     <br />
