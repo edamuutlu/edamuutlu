@@ -1,6 +1,14 @@
+<style>
+  .italic-text {
+    font-style: italic;
+    text-align: center;
+  }
+</style>
+
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center" style="font-style: italic;">I'm Eda from Istanbul, Turkey</h3>
-<h3 align="center" style="font-style: italic;">3th year Computer Engineering Student</h3>
+<h3 class="italic-text">I'm Eda from Istanbul, Turkey</h3>
+<h3 class="italic-text">3rd year Computer Engineering Student</h3>
+
 
 
 * 🎯 I’m currently learning **Entity Framework** and **Spring Boot**
@@ -24,5 +32,5 @@
 <h3 align="left">Socials</h3>
 <a href="https://www.linkedin.com/in/eda-nur-mutlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu&layout=compact)
