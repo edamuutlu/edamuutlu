@@ -20,7 +20,6 @@
 
 * 👩🏼‍💻 I'm currently student at Marmara University Computer Engineering
 * 🌱 I’m currently learning **Entity Framework** and **Spring Boot**
-* 📫 How to reach me: [edamuutlu@gmail.com](mailto:edamuutlu@gmail.com)
   
 <br />
 <h3 align="left">Skills</h3>
