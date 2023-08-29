@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center"><em>I'm Eda from Istanbul, Turkey</em></h3>
-<h3 align="center"><em>3rd year Computer Engineering Student</em></h3>
 
 <div align="center">
-    <img src="[https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)"
+    <img src="https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s"
         width="180px" />
     <br />
     <br />
