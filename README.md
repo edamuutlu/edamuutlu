@@ -22,10 +22,9 @@
 * 🌱 I’m currently learning **Entity Framework** and **Spring Boot**
 * 📫 How to reach me: [edamuutlu@gmail.com](mailto:edamuutlu@gmail.com)
   
-
+<br />
 <h3 align="left">Skills</h3>
 <p align="left">
-    <br />
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
