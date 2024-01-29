@@ -16,7 +16,7 @@
 <div>
 
 * 👩🏼‍💻 I'm currently student at Marmara University Computer Engineering
-* 🌱 I’m currently learning **Entity Framework** and **Spring Boot**
+* 🌱 I’m currently learning **Entity Framework**, **Spring Boot** and **Flutter**
   
 <p></p>
 <h3 align="left">Skills</h3>
