@@ -5,7 +5,7 @@
         width="180px" />
     <br />
     <samp> <i> I'm Eda from Istanbul, Turkey </i> </samp> <br />
-    <samp> <i> 3rd year Computer Engineering Student. </i> </samp>
+    <samp> <i> 4th year Computer Engineering Student. </i> </samp>
     <br />
     <samp>
         <p></p>
