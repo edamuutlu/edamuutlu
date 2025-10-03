@@ -5,7 +5,7 @@
         width="180px" />
     <br />
     <samp> <i> I'm Eda from Istanbul, Turkey </i> </samp> <br />
-    <samp> <i> 4th year Computer Engineering Student. </i> </samp>
+    <samp> <i> Computer Engineer </i> </samp>
     <br />
     <samp>
         <p></p>
@@ -14,9 +14,6 @@
 
 </div>
 <div>
-
-* 👩🏼‍💻 I'm currently student at Marmara University Computer Engineering
-* 🌱 I’m learning **React** and **Spring Boot**
   
 <p></p>
 <h3 align="left">Skills</h3>
