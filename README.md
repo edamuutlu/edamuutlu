@@ -5,7 +5,7 @@
         width="180px" />
     <br />
     <samp> <i> I'm Eda from Istanbul, Turkey </i> </samp> <br />
-    <samp> <i> Computer Engineer </i> </samp>
+    <samp> <i> Currently working as a Frontend Engineer </i> </samp>
     <br />
     <samp>
         <p></p>
@@ -15,8 +15,7 @@
 </div>
 <div>
   
-<p></p>
-<h3 align="left">Skills</h3>
+<!-- ## Skills
 <p align="left">
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ </a>
@@ -29,12 +28,14 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDb" /></a>
-</p>
+</p> -->
 
+## GitHub Stats
 <div>
-    <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edamuutlu&layout=compact&theme=transparent" alt="Top Languages">
+</div> 
 
-</div>
+## Snake Animation
+![GitHub Contribution Snake](https://github.com/seilorjunior/seilorjunior/blob/output/github-snake-dark.svg)
 
 
